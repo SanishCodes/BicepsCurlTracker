@@ -4,12 +4,9 @@ A real-time computer vision application that detects and counts **double biceps 
 
 ---
 
-## 📽️ Demo
+# 📽️ Demo
 
-> *(Optional: Add a GIF or video showing your app in action)*  
-> Example:  
-> ![Demo](demo.gif)
-
+[download demo.mp4](demo.mp4)
 ---
 
 ## 🚀 Features
